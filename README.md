@@ -1,4 +1,27 @@
-# Structure a Node.js MVC Application
+# Skeleton Node.js MVC Application
 
-## In a non-trivial application, the architecture is as important as the quality of the code ifself. We can have well-written pieces of code, but if we don't have a good organization, we'll have a hard time as the complexity increases. There's no need to wait until the project is half-way done to start thinking about the architecture. The best time is before starting, using our goal as beacons for our choices.
+In this tutorial, shows how to create a note-taking app using Hapi.js, Pug, Sequelize and SQLite. Learn to build Node.js MVC apps by example.
 
+
+## Requirements
+
+* [Node.js](http://nodejs.org/) (v8 or higher)
+
+## Installation Steps
+
+1. Clone repo
+2. Run `npm install`
+3. Run `npm run start:dev`
+4. Visit http://localhost:3000/
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2022 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
