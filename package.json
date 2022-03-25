@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jameskolce/notes-board.git"
+    "url": ""
   },
-  "author": "James Kolce <contact@jameskolce.com>",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jameskolce/notes-board/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jameskolce/notes-board#readme",
+  "homepage": "",
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "dotenv": "^8.2.0",
